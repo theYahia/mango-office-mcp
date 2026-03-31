@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mango-office": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/mango-office-mcp"],
+      "env": {
+        "MANGO_API_KEY": "",
+        "MANGO_API_SALT": ""
+      }
+    }
+  }
+}
