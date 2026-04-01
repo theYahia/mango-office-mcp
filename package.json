@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/mango-office-mcp",
-  "version": "1.0.1",
-  "description": "MCP server for Mango Office API — calls, users. 2 tools.",
+  "version": "1.1.1",
+  "description": "MCP server for Mango Office — cloud PBX, call management (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -41,7 +41,10 @@
     "russian-api",
     "mango-office",
     "telephony",
-    "pbx"
+    "pbx",
+    "api",
+    "typescript",
+    "voice"
   ],
   "license": "MIT",
   "repository": {
