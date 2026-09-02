@@ -1,6 +1,6 @@
-# @theyahia/mango-office-mcp
+# Mango Office MCP — телефония, звонки и записи разговоров через нейросеть
 
-MCP-сервер для Mango Office API — звонки, пользователи, записи, SMS, статистика. **8 инструментов.**
+Если вы искали, как поднять статистику звонков за неделю обычным вопросом, вытащить запись разговора для разбора или отправить SMS прямо из диалога с ИИ-ассистентом — это оно. **8 инструментов** поверх Mango Office API: звонки, пользователи, записи, SMS и статистика.
 
 [![npm](https://img.shields.io/npm/v/@theyahia/mango-office-mcp)](https://www.npmjs.com/package/@theyahia/mango-office-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -90,3 +90,4 @@ MIT
 ---
 
 Часть [WWmcp](https://github.com/theYahia/WWmcp) · Telegram: [@vhodvai](https://t.me/vhodvai)
+
