@@ -1,3 +1,17 @@
+> ## 🗄 Репозиторий заархивирован
+>
+> Разработка переехала в **[theYahia/WWmcp](https://github.com/theYahia/WWmcp)** — монорепозиторий MCP-серверов для незападных API: СНГ, MENA, Африка, LATAM, Юго-Восточная Азия. Общее ядро `@theyahia/mcp-core`, единый CI, единый релизный конвейер.
+>
+> Актуальная версия того, что лежало здесь: [`servers/mango-office/`](https://github.com/theYahia/WWmcp/tree/main/servers/mango-office)
+>
+> Пакет в npm прежний — [`@theyahia/mango-office-mcp`](https://www.npmjs.com/package/@theyahia/mango-office-mcp), ставится и работает как раньше.
+> Здесь больше ничего не обновляется. Задачи и pull request'ы — в WWmcp.
+>
+> **Archived — development moved to [theYahia/WWmcp](https://github.com/theYahia/WWmcp),** a monorepo of MCP servers for non-Western APIs.
+> The current version of this package now lives at [`servers/mango-office/`](https://github.com/theYahia/WWmcp/tree/main/servers/mango-office).
+> The npm package [`@theyahia/mango-office-mcp`](https://www.npmjs.com/package/@theyahia/mango-office-mcp) is unchanged.
+> Please open issues and pull requests there.
+
 # Mango Office MCP — телефония, звонки и записи разговоров через нейросеть
 
 Если вы искали, как поднять статистику звонков за неделю обычным вопросом, вытащить запись разговора для разбора или отправить SMS прямо из диалога с ИИ-ассистентом — это оно. **8 инструментов** поверх Mango Office API: звонки, пользователи, записи, SMS и статистика.
